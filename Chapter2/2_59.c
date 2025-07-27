@@ -2,16 +2,12 @@
 
 typedef unsigned char *BYTE;
 
-int is_little_endian() {
-    int x = 1;
-    return *((char *)&x) == 1;
-}
-
 void x_and_y(BYTE x, BYTE y) {
     BYTE start;
     BYTE end;
+    int one = 1;
 
-    if (!is_little_endian()) {
+    if (!((*((char *)& one) == 1))) {
         start = x;
         end = y;
     }else {
