@@ -32,4 +32,4 @@ and stored in the register %rax. After doing this, the value stored in %rdi,
 which correspod to y, is copied and stored in the original position in the 
 memory. However, in this progress, %rax is not changed.
 
-![Progress](Image\Fig3_1.jpg "Value-unchange progress")
+![Progress](Image/Fig3_1.jpg "Value-unchange progress")
