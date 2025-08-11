@@ -16,9 +16,11 @@ It may be a sad news that CSAPP owns a reputation of being so difficult to read.
 
 ## Note
 
-*Waitting to be completed*
+The notes I made are more like asides to the book. Since the knowledge of computer systems is taken as a whole, it is sometimes necessary to offer some assertions to the reader. This helps us build an overview of the concepts, even if we do not always provide exact proofs or explanations. This approach is a good way to teach new things, as Martin Heidegger discussed in his masterpiece *Sein und Zeit* [^3], where he emphasizes the importance of intuitive understanding before formal analysis. Similarly, providing assertions and overviews can help learners grasp the big picture before delving into detailed proofs. However, it may be helpful to add notes indicating which concepts require deeper understanding and which can be set aside for now.
 
 
 [^1] CSDIY (https://csdiy.wiki/) is a computer science self-learning guide written by a student from Peking University. It is considered one of the most authoritative materials by Chinese computer science students.
 
 [^2] The authors contributed a course website of the book (https://csapp.cs.cmu.edu/), on which you can find the labs for the self-leaners.
+
+[^3] Sein und Zeit is rather based on this kind of logic. Heidegger assumes that everyone owns some intuitions about existence, and these intuitions are partly correct. By the way, I like reading philosophy.
